@@ -20,7 +20,7 @@ I'm passionate about building modern, responsive and user-friendly web experienc
 - 🛒 Amazon Clone
 - 🍽️ Restaurant Website
 - 💻 Personal Portfolio
-- E-commerce Website
+- 🖥️E-commerce Website
 
 ## 🌱 Currently Improving
 
