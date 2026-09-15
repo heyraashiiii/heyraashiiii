@@ -13,7 +13,7 @@
 - **[My Portfolio](https://github.com/heyraashiiii/My-Portfolio)** — Personal portfolio website showcasing my work
 - **[Amazon Clone](https://github.com/heyraashiiii/Amazon-clone-project)** — Amazon homepage clone built with HTML & CSS
 - **[Responsive Restaurant Website](https://github.com/heyraashiiii/Responsive-restaurant-web)** — Fully responsive restaurant landing page
-- **[Guard Project](https://github.com/heyraashiiii/V--Guad-project)** — [add a one-line description of what this project does]
+- **[VGuard Project](https://github.com/heyraashiiii/V--Guad-project)** — V-Guard-inspired website built with HTML & CSS
 ---
 
 
