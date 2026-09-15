@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamed Rashid P</h1>
-<h3 align="center">Frontend Developer | Building clean, responsive web experiences</h3>
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Muhamed%20Rashid%20P&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=55&descSize=20"/>
 
 
 
@@ -34,7 +30,8 @@
 - Become a strong full-stack developer
 - Contribute to open source
 - Build and deploy useful products
-- 
+
+  
 
 ### 🔗 Connect with me
 
@@ -43,3 +40,5 @@
   <a href="https://instagram.com/heyraashiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:muhamedrashid037@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
