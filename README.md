@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Rashid 👋
 
-<!--
-**heyraashiiii/heyraashiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React & JavaScript
 
-Here are some ideas to get you started:
+I'm passionate about building modern, responsive and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🛒 Amazon Clone
+- 🍽️ Restaurant Website
+- 💻 Personal Portfolio
+
+## 🌱 Currently Learning
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+## 🎯 Goals
+
+- Build real-world applications
+- Become a strong full-stack developer
+- Contribute to open source
+- Build and deploy useful products
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/heyraashiiii
