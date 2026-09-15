@@ -1,6 +1,6 @@
-# Hey, I'm Rashid 👋
+# Hey, I'm Rashi 👋
 
-### Frontend Developer | React & JavaScript
+### Full-Stack Developer | MERN STACK
 
 I'm passionate about building modern, responsive and user-friendly web experiences.
 
@@ -8,18 +8,21 @@ I'm passionate about building modern, responsive and user-friendly web experienc
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - React
 - Node.js
-- Git & GitHub
+- React
+- Mongodb
 
 ## 🚀 Projects
 
 - 🛒 Amazon Clone
 - 🍽️ Restaurant Website
 - 💻 Personal Portfolio
+- E-commerce Website
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
 - React
 - Node.js
